@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: 学生作品集
+  url: /portfolio/
+  excerpt: "网站设计作品集合"
+  image: timg.gif
+
+- title: 学生网站学习笔记
+  url: /posts/rwd/
+  excerpt: "在此展示学生学习笔记"
+  image: dogge.svg
+
+- title: 可视化作品展示
+  url: /infovis/
+  excerpt: "可视化作品集合"
+  image: tableau.gif
+
+- title: 可视化笔记
+  url: /posts/infovis/
+  excerpt: "可视化笔记集合"
+  image: sanci.gif
+
+- title: 联络我
+  url: /contact/
+  excerpt: "联络我"
+  image: head.gif
